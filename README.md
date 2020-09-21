@@ -55,10 +55,10 @@ Target Variable:
 The expoloraty data analysis was done to better visualize and understand data set before undergoing the model building process.
 
 ![alt text](https://github.com/kevin7303/COVID-Mobility-and-US-economy/blob/master/sp500.png "SP500")
-![alt text](https://github.com/kevin7303/COVID-Mobility-and-US-economy/blob/master/west.png "west")
-![alt text](https://github.com/kevin7303/COVID-Mobility-and-US-economy/blob/master/midwest.png "midwest")
-![alt text](https://github.com/kevin7303/COVID-Mobility-and-US-economy/blob/master/south.png "south")
-![alt text](https://github.com/kevin7303/COVID-Mobility-and-US-economy/blob/master/north.png "north")
+![alt text](https://github.com/kevin7303/COVID-Mobility-and-US-economy/blob/master/West.png "west")
+![alt text](https://github.com/kevin7303/COVID-Mobility-and-US-economy/blob/master/Midwest.png "midwest")
+![alt text](https://github.com/kevin7303/COVID-Mobility-and-US-economy/blob/master/South.png "south")
+![alt text](https://github.com/kevin7303/COVID-Mobility-and-US-economy/blob/master/East.png "East")
 
 
 ## Model Building 
