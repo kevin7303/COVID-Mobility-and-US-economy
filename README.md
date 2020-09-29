@@ -2,6 +2,16 @@
 Prediction model that uses COVID-19 Mobility Data provided by Google Big Data Query as features for S&amp;P500 Close price. 
 This was a project made specifically for the 2020 Columbia Data Science Society Hackathon.
 
+
+# Background 
+COVID-19 has heavily affected the world. Covid-19 has had a drastic impact in our Mobility and the Google Community Covid-19 Reports have quantified the impact. 
+
+Mobility is defined by Google as the changes to the Frequency and Length of Stay to different locations compared to a baseline value (pre-COVID mobility as base). 
+The mobility categories are: Residential, Parks, Office, Transit Stations, Grocery, Retail & Entertainment
+
+The goal is to understand how the change in mobility levels has affected the US economy as a whole. I also attempt to understand which mobility categories had the largest impact on the economy 
+
+
 # Project Overview 
 
 * Cleaned and merged two data sets to find underlying insights
